@@ -2,21 +2,24 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Coding
-  - Reading
-  - Painting
-  - Crafting
+  - Python Programming
+  - Data Analysis
+  - Machine Learning
+  - SQL & Database Management
+  - Tableau Visualization
+  - Advanced Excel
+  - Java Programming
   - Problem Solving
-  - Team Management
-  - Mentoring
+  - AI & Computer Vision
+  - Data Science
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Ujjwal Singh, from Berhampur, India, born on October 21, 2001.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I am a tech enthusiast passionate about data-driven solutions with expertise in Python, Tableau, SQL, Machine Learning, and Advanced Excel. I am experienced in data analytics, AI, and Java programming, with multiple projects and internships showcasing hands-on skills.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+I am pursuing my B.Tech in Information Technology from [National Institute of Science and Technology, Berhampur](https://nist.edu/) with a current score of 6.5% and have been recognized as an All-rounder.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+I am fluent in English and Hindi (read/write/speak) and have completed multiple internships at Central Tool Room & Training Centre (CTTC) gaining hands-on experience in data science, AI, and advanced data analytics.
 
-Here are a few of the other activities that I love to do!
+Here are a few of the technical skills and technologies I work with!

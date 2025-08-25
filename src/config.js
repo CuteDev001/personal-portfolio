@@ -1,34 +1,34 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Ujjwal Singh',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Ujjwal Singh is a tech enthusiast passionate about data-driven solutions with expertise in Python, Tableau, SQL, Machine Learning, and Advanced Excel.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Ujjwal Singh, Ujjwal, Singh, ujjwalsingh, data analyst, machine learning engineer, python developer, tableau developer, data scientist, AI engineer, NIST Berhampur',
+  siteUrl: 'https://ujjwalsingh.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Ujjwal Singh',
+  location: 'Berhampur, India',
+  email: 'ujjwalsingh21102001@gmail.com',
+  github: 'https://github.com/ujjwalsingh',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/ujjwalsingh',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/ujjwalsingh/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
+      url: 'https://codepen.io/ujjwalsingh',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.instagram.com/ujjwalsingh',
     },
     {
       name: 'Twitter',
