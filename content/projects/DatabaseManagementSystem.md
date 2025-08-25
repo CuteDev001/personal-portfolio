@@ -1,6 +1,5 @@
 ---
 title: 'Database Management & SQL Analytics'
-image: '/images/projects/database-sql.jpg'
 repo: '#'
 link: '#'
 tech:

@@ -1,6 +1,5 @@
 ---
 title: 'Predictive Analytics & ML Models'
-image: '/images/projects/ml-prediction.jpg'
 repo: '#'
 link: '#'
 tech:

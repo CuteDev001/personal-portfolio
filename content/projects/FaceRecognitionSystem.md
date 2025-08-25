@@ -1,6 +1,5 @@
 ---
 title: 'Face Recognition System'
-image: '/images/projects/face-recognition.jpg'
 repo: '#'
 link: '#'
 tech:

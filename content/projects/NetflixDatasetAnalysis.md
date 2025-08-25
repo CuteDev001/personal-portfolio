@@ -1,6 +1,5 @@
 ---
 title: 'Netflix Dataset Analysis'
-image: '/images/projects/netflix-analysis.jpg'
 repo: '#'
 link: '#'
 tech:
